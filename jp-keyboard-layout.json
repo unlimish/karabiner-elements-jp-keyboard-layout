@@ -2,7 +2,7 @@
   "title": "日本語用かな配列 (shun@getto.systems/unlimish fork)",
   "rules": [
     {
-      "description": "新下駄配列 ver. 1.0 (for keyboard type: jis)",
+      "description": "新下駄配列 ver. 1.0 (for keyboard type: us)",
       "manipulators": [
         {
           "type": "basic",

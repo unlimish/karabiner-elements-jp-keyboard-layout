@@ -1701,7 +1701,7 @@
             {"type": "input_source_if","input_sources": [{"language": "ja"}]}
           ],
           "from": {"simultaneous": [{"key_code": "h"},{"key_code": "j"}]},
-          "to": [{"key_code": "8", "modifiers": ["left_shift"]},{"key_code": "9", "modifiers": ["left_shift"], "repeat": false}]
+          "to": [{"key_code": "9", "modifiers": ["left_shift"]},{"key_code": "0", "modifiers": ["left_shift"], "repeat": false}]
         },
 
 

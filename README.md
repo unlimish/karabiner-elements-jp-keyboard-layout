@@ -11,7 +11,7 @@ japanese keyboard layout for karabiner-elements
 
 ## Layouts
 
-### 新下駄配列
+### [新下駄配列](https://kouy.exblog.jp/13627994/)
 
 ![新下駄配列](新下駄配列.png)
 

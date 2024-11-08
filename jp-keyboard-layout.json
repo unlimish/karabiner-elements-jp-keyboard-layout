@@ -3134,7 +3134,7 @@
             }
           ],
           "from": { "key_code": "quote" },
-          "to": [{ "key_code": "delete_or_backspace", "repeat": false }]
+          "to": [{ "key_code": "delete_or_backspace", "repeat": true }]
         },
 
         {

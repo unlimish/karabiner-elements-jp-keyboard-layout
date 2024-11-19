@@ -2800,7 +2800,8 @@
           },
           "to": [
             { "key_code": "open_bracket" },
-            { "key_code": "close_bracket", "repeat": false }
+            { "key_code": "close_bracket"},
+            { "key_code": "left_arrow", "repeat": false}
           ]
         },
 
@@ -2861,7 +2862,8 @@
           },
           "to": [
             { "key_code": "9", "modifiers": ["left_shift"] },
-            { "key_code": "0", "modifiers": ["left_shift"], "repeat": false }
+            { "key_code": "0", "modifiers": ["left_shift"] },
+            { "key_code": "left_arrow", "repeat": false }
           ]
         },
 
